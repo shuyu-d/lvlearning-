@@ -10,7 +10,7 @@ This repository contains an implementation of the LVlearn method for learning me
 - python-igraph: Install [igraph C core](https://igraph.org/c/) and `pkg-config` first.
 - `NOTEARS/utils.py` - graph simulation, data simulation, and accuracy evaluation from [Zheng et al. 2018]
 
-Contact: shuyu.dong@centralesupelec.fr  
+Contact: shuyu.dong-at-centralesupelec.fr  
 
 ## Running a demo
 
